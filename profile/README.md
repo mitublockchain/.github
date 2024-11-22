@@ -2,7 +2,7 @@
 
 **Mitu Blockchain** is a high-performance, EVM-compatible blockchain platform designed for decentralized applications, NFTs, and enterprise solutions. Forked from OpenEthereum, Mitu offers improved scalability, security, and developer experience.
 
-[**Optional: Insert your logo here**]
+<img src="https://avatars.githubusercontent.com/u/189336984?s=200&v=4">
 
 **Website:** [mituchain.com](https://mituchain.com)
 **Docs:** [docs.mituchain.com](https://docs.mituchain.com)
